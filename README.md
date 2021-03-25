@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @candiepih
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning programming in C and Computer Devops
-- 💞️ I’m looking to collaborate on a game project someday
+- 🌱 I’m currently learning programming in C and System engineering & DevOps at alx
+- 💞️ I’m looking forward to collaborate work on any cool project.
 - 📫 get me via email mutheeal.am@gmail.com
 
 <!---
