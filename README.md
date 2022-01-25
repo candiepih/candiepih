@@ -5,7 +5,7 @@
 - 📫 get me via email mutheeal.am@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=candiepih&layout=compact)](https://github.com/candiepih/github-readme-stats)
-![Candiepih's GitHub stats](https://github-readme-stats.vercel.app/api?username=candiepih&show_icons=true&bg_color=30,808080,3fada8&theme=outrun)
+![Candiepih's GitHub stats](https://github-readme-stats.vercel.app/api?username=candiepih&show_icons=true&bg_color=90,808080,3fada8&theme=outrun)
 <!---
 candiepih/candiepih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
