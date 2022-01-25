@@ -4,7 +4,7 @@
 - 💞️ I’m looking forward to collaborate work on any cool project.
 - 📫 get me via email mutheeal.am@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=candiepih&layout=compact)](https://github.com/candiepih/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=candiepih)](https://github.com/candiepih/github-readme-stats)
 <!---
 candiepih/candiepih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
