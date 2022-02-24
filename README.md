@@ -5,7 +5,6 @@
 - 📫 get me via email mutheeal.am@gmail.com
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=candiepih&show_icons=true&theme=outrun&hide_border=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=candiepih&layout=compact&hide_border=true&theme=outrun)](https://github.com/candiepih/github-readme-stats)
 
 <!---
