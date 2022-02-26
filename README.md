@@ -3,12 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=candiepih&label=Profile%20views&color=0e75b6&style=flat" alt="candiepih" /> </p>
 
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning **C#, Unity game engine**
-
 - 👯 I’m looking forward to collaborate or **work on any cool project.**
-
 - 👨‍💻 All of my projects are available at [https://portfolio-candiepih.vercel.app/](https://portfolio-candiepih.vercel.app/)
-
 - 📫 How to reach me **mutheeal.am@gmail.com**
 
 ## Technologies & Tools
