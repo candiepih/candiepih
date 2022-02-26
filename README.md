@@ -28,7 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=candiepih&layout=compact&hide_border=true&theme=outrun&langs_count=8" alt="candiepih" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=candiepih&" alt="candiepih" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=candiepih&theme=outrun" alt="candiepih" /></p>
 
 <!---
 candiepih/candiepih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
