@@ -32,6 +32,7 @@
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Apache-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-NextJs-informational?style=flat&logo=nextdotjs&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-MongoDb-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
@@ -47,6 +48,9 @@
 ![](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Testing-Mocha-informational?style=flat&logo=mocha&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Testing-Chai-informational?style=flat&logo=chai&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Design-PhotoShop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Modelling-Blender-informational?style=flat&logo=blender&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=candiepih&show_icons=true&theme=outrun&hide_border=true" alt="candiepih" /></p>
 
