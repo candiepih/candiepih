@@ -19,14 +19,33 @@
 <a href="https://medium.com/@mutheeal.am" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mutheeal.am" height="30" width="40" /></a>
 </p>
 
-Technologies & tools
+## Technologies & Tools
 
-![](https://img.shields.io/badge/Language-c-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-csharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+### Programming languages
+
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PhP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+
+### Front end
+
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Babel-informational?style=flat&logo=babel&logoColor=white&color=2bbc8a)
+
+### Backend
+
+![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodedotjs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Apache-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=candiepih&show_icons=true&theme=outrun&hide_border=true" alt="candiepih" /></p>
 
