@@ -21,8 +21,6 @@
 
 Technologies & tools
 
-Programming languages
-
 ![](https://img.shields.io/badge/Language-c-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-csharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
