@@ -1,9 +1,8 @@
 <div align="center"><img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="225px"></div>
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Alex Steve</h1>
-<h3 align="center">A passionate software developer from Kenya</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candiepih&label=Profile%20views&color=0e75b6&style=flat" alt="candiepih" /> </p>
-
+- A passionate software developer from Kenya
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning **C#, Unity game engine**
 - 👯 I’m looking forward to collaborate or **work on any cool project.**
