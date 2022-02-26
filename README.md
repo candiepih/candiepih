@@ -6,7 +6,7 @@
 - A passionate software developer from Kenya
 - 🌱 I’m currently learning **HLSL in Unity Engine**
 - 👯 I’m looking forward to collaborate or **work on any cool project.**
-- 👨‍💻 All of my projects are available at [https://portfolio-candiepih.vercel.app/](https://portfolio-candiepih.vercel.app/)
+- 👨‍💻 All of my projects are available [here](https://portfolio-candiepih.vercel.app/)
 - 📫 How to reach me **mutheeal.am@gmail.com**
 
 ## Languages, Technologies & Tools
@@ -54,9 +54,10 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=candiepih&show_icons=true&theme=outrun&hide_border=true" alt="candiepih" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=candiepih&layout=compact&hide_border=true&theme=outrun&langs_count=8" alt="candiepih" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=candiepih&theme=outrun" alt="candiepih" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=candiepih&show_icons=true&theme=outrun&hide_border=true" alt="candiepih" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=candiepih&layout=compact&hide_border=true&theme=outrun&langs_count=8" alt="candiepih" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=candiepih&theme=outrun" alt="candiepih" /></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
