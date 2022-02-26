@@ -40,8 +40,13 @@
 
 ![](https://img.shields.io/badge/Devops-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Devops-Vagrant-informational?style=flat&logo=vagrant&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Baas-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Testing-Mocha-informational?style=flat&logo=mocha&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Testing-Chai-informational?style=flat&logo=chai&logoColor=white&color=2bbc8a)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=candiepih&show_icons=true&theme=outrun&hide_border=true" alt="candiepih" /></p>
 
