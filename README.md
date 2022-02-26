@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Steve</h1>
-<h3 align="center">A passionate software engineer from Kenya</h3>
+<h3 align="center">A passionate software developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=candiepih&label=Profile%20views&color=0e75b6&style=flat" alt="candiepih" /> </p>
 
