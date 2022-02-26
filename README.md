@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **mutheeal.am@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/alex-steve-906242116/](https://www.linkedin.com/in/alex-steve-906242116/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mutheealam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mutheealam" height="30" width="40" /></a>
