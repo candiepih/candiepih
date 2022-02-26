@@ -38,6 +38,11 @@
 ![](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/Devops-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Devops-Vagrant-informational?style=flat&logo=vagrant&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Baas-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=candiepih&show_icons=true&theme=outrun&hide_border=true" alt="candiepih" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=candiepih&layout=compact&hide_border=true&theme=outrun&langs_count=8" alt="candiepih" /></p>
