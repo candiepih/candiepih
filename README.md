@@ -19,6 +19,17 @@
 <a href="https://medium.com/@mutheeal.am" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mutheeal.am" height="30" width="40" /></a>
 </p>
 
+Technologies & tools
+
+Programming languages
+
+![](https://img.shields.io/badge/Language-c-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-csharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=candiepih&show_icons=true&theme=outrun&hide_border=true" alt="candiepih" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=candiepih&layout=compact&hide_border=true&theme=outrun&langs_count=8" alt="candiepih" /></p>
