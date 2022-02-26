@@ -1,4 +1,4 @@
-<div align="center" style="background-color:rgba(0, 0, 0, 0.0470588);"><img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="250px"></div>
+<div align="center"><img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="200px"></div>
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Alex Steve</h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
 
