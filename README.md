@@ -21,16 +21,12 @@
 
 ## Technologies & Tools
 
-### Programming languages
-
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PhP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-
-### Front end
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
@@ -39,8 +35,6 @@
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Babel-informational?style=flat&logo=babel&logoColor=white&color=2bbc8a)
-
-### Backend
 
 ![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodedotjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
