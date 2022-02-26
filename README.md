@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [https://portfolio-candiepih.vercel.app/](https://portfolio-candiepih.vercel.app/)
 - 📫 How to reach me **mutheeal.am@gmail.com**
 
-## Technologies & Tools
+## Languages, Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
