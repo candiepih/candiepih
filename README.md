@@ -23,32 +23,31 @@
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Babel-informational?style=flat&logo=babel&logoColor=white&color=2bbc8a)
+<!-- ![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Babel-informational?style=flat&logo=babel&logoColor=white&color=2bbc8a) -->
 
 ![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodedotjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Apache-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)
+<!-- ![](https://img.shields.io/badge/Cloud-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Apache-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a) -->
 ![](https://img.shields.io/badge/Framework-NextJs-informational?style=flat&logo=nextdotjs&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-MongoDb-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Devops-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Devops-Vagrant-informational?style=flat&logo=vagrant&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Baas-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DevOps-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DevOps-Vagrant-informational?style=flat&logo=vagrant&logoColor=white&color=2bbc8a)
+<!-- ![](https://img.shields.io/badge/Baas-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a) -->
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
+<!-- ![](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a) -->
 ![](https://img.shields.io/badge/Testing-Mocha-informational?style=flat&logo=mocha&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Testing-Chai-informational?style=flat&logo=chai&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Design-PhotoShop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Modelling-Blender-informational?style=flat&logo=blender&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/GameEngine-Unity-informational?style=flat&logo=unity&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
