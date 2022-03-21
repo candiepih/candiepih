@@ -5,9 +5,9 @@
 
 - A passionate software developer from Kenya
 - 🌱 I’m currently learning **HLSL in Unity Engine**
-- 👯 I’m looking forward to collaborate or **work on any cool project.**
-- 👨‍💻 All of my projects are available [here](https://portfolio-candiepih.vercel.app/)
-- 📫 How to reach me **mutheeal.am@gmail.com**
+- 👯 I’m looking forward to **collaborate** or **work on any cool project.**
+<!-- - 👨‍💻 All of my projects are available [here](https://portfolio-candiepih.vercel.app/) -->
+- 📫 Reach me via email **mutheeal.am@gmail.com**
 
 ## Languages, Technologies & Tools
 
