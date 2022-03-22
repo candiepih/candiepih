@@ -12,7 +12,7 @@
 ## Languages, Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C\#-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PhP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
@@ -35,7 +35,6 @@
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-MongoDb-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/DevOps-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=2bbc8a)
 <!-- ![](https://img.shields.io/badge/DevOps-Vagrant-informational?style=flat&logo=vagrant&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/Baas-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a) -->
