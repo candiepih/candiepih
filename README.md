@@ -1,10 +1,10 @@
 <div align="center"><img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="250px"></div>
-<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Alex Steve</h1>
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Alex Njagi</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candiepih&label=Profile%20views&color=0e75b6&style=flat" alt="candiepih" /> </p>
 
 - A passionate software developer from Kenya
-- 🌱 I’m currently learning **HLSL in Unity Engine**
+- 🌱 I’m currently exploring Node.Js with React.js
 - 👯 I’m looking forward to **collaborate** or **work on any cool project.**
 <!-- - 👨‍💻 All of my projects are available [here](https://portfolio-candiepih.vercel.app/) -->
 - 📫 Reach me via email **mutheeal.am@gmail.com**
