@@ -3,6 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candiepih&label=Profile%20views&color=0e75b6&style=flat" alt="candiepih" /> </p>
 
+### About Me
 - A passionate software developer, my interest lying mainly in back-end web development.
 - 🌱 I’m currently exploring Node.Js, with usage of message brokers and React.Js since I aspire to be a MERN stack developer.
 - 👯 I’m looking forward to **collaborate** or **work on any cool project.**
