@@ -51,7 +51,7 @@
 ![](https://img.shields.io/badge/3DModelling-Blender-informational?style=flat&logo=blender&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/GameEngine-Unity-informational?style=flat&logo=unity&logoColor=white&color=2bbc8a)
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
+<div style="display: flex; flex-direction: row; justify-content: center;">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=candiepih&show_icons=true&theme=outrun&hide_border=true" alt="candiepih" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=candiepih&layout=compact&hide_border=true&theme=outrun&langs_count=8" alt="candiepih" /></p>
 </div>
