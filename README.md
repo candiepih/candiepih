@@ -4,6 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candiepih&label=Profile%20views&color=0e75b6&style=flat" alt="candiepih" /> </p>
 
 ## About Me
+
 - A passionate software developer, my interest lying mainly in back-end web development.
 - 🌱 I’m currently exploring Node.Js, with usage of message brokers and React.Js since I aspire to be a MERN stack developer.
 - 👯 I’m looking forward to **collaborate** or **work on any cool project.**
@@ -51,6 +52,8 @@
 ![](https://img.shields.io/badge/3DModelling-Blender-informational?style=flat&logo=blender&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/GameEngine-Unity-informational?style=flat&logo=unity&logoColor=white&color=2bbc8a)
 
+## Github stats
+
 <div style="display: flex; flex-direction: row; justify-content: center;">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=candiepih&show_icons=true&theme=outrun&hide_border=true" alt="candiepih" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=candiepih&layout=compact&hide_border=true&theme=outrun&langs_count=8" alt="candiepih" /></p>
@@ -58,7 +61,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=candiepih&theme=outrun" alt="candiepih" /></p>
 
 
-<h3 align="left">Connect with me:</h3>
+
+## Connect with me
+
 <p align="left">
 <a href="https://twitter.com/mutheealam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mutheealam" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/alex-njagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-steve-906242116" height="30" width="40" /></a>
