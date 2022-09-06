@@ -5,10 +5,10 @@
 
 ## About Me
 
-- A passionate software developer, my interest lying mainly in back-end web development.
-- 🌱 I’m currently exploring Node.Js, with usage of message brokers and React.Js since I aspire to be a MERN stack developer.
+- A passionate full stack developer, my interest lying mainly in back-end web development.
+- 🌱 I’m currently exploring design patterns as used in development of micro services.
 - 👯 I’m looking forward to **collaborate** or **work on any cool project.**
-<!-- - 👨‍💻 All of my projects are available [here](https://portfolio-candiepih.vercel.app/) -->
+<!-- - 👨‍💻 View my portfolio and projects [here](https://alexnjagi.com) -->
 - 📫 Reach me via email **mutheeal.am@gmail.com**
 
 ## Languages, Technologies & Tools
