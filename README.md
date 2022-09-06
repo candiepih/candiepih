@@ -56,10 +56,7 @@
 
 [![Candiepih's github activity graph](https://activity-graph.herokuapp.com/graph?username=candiepih&theme=redical)](https://github.com/candiepih/github-readme-activity-graph)
 
-<div style="display: flex; flex-direction: row; justify-content: center;">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=candiepih&show_icons=true&theme=outrun&hide_border=true" alt="candiepih" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=candiepih&layout=compact&hide_border=true&theme=outrun&langs_count=8" alt="candiepih" /></p>
-</div>
+|<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=candiepih&show_icons=true&theme=outrun&hide_border=true" alt="candiepih" /></p>|<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=candiepih&layout=compact&hide_border=true&theme=outrun&langs_count=8" alt="candiepih" /></p>|
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=candiepih&theme=outrun" alt="candiepih" /></p>
 
 
