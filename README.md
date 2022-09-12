@@ -6,7 +6,7 @@
 ## About Me
 
 - A passionate full stack developer, my interest lying mainly in back-end web development.
-- 🌱 I’m currently exploring design patterns as used in development of micro services.
+- 🌱 I’m currently exploring docker and micro services architecture.
 - 👯 I’m looking forward to **collaborate** or **work on any cool project.**
 <!-- - 👨‍💻 View my portfolio and projects [here](https://alexnjagi.com) -->
 - 📫 Reach me via email **mutheeal.am@gmail.com**
