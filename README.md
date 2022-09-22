@@ -11,7 +11,7 @@
 <!-- - 👨‍💻 View my portfolio and projects [here](https://alexnjagi.com) -->
 - 📫 Reach me via email **mutheeal.am@gmail.com**
 
-## Languages & Technologies
+## Languages, Databases, & Technologies
 
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
@@ -29,15 +29,17 @@
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 
+
+
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-MongoDb-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Design-PhotoShop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/3DModelling-Blender-informational?style=flat&logo=blender&logoColor=white&color=2bbc8a)
+
+
 ![](https://img.shields.io/badge/GameEngine-Unity-informational?style=flat&logo=unity&logoColor=white&color=2bbc8a)
 
 ## Github stats
