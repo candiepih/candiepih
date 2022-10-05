@@ -1,14 +1,14 @@
 <div align="center"><img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" height="350px"></div>
-<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"/> I'm Alex Njagi</h1>
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"/> it's I, Alex Njagi</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candiepih&label=Profile%20views&color=0e75b6&style=flat" alt="candiepih" /> </p>
 
 ## About Me
 
-- A passionate full stack developer, my interest lying mainly in back-end web development.
+- 😎 Passionate full stack developer, with interest in building scalable web applications that solve real world problems.
 - 🌱 I’m currently exploring docker and micro services architecture.
 - 👯 I’m looking forward to **collaborate** or **work on any cool project.**
-<!-- - 👨‍💻 View my portfolio and projects [here](https://alexnjagi.com) -->
+- 👨‍💻 View my portfolio and projects [here](https://alexnjagi.com)
 - 📫 Reach me via email **mutheeal.am@gmail.com**
 
 ## Languages, Databases, & Technologies
