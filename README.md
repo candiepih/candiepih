@@ -5,10 +5,10 @@
 
 ## About Me
 
-- 😎 Passionate full stack developer, with interest in building scalable web applications that solve real world problems.
+- 😎 Passionate full stack developer, with interest in learning and building web applications, mostly back-end.
 - 🌱 I’m currently exploring docker and micro services architecture.
-- 👯 I’m looking forward to **collaborate** or **work on any cool project.**
-- 👨‍💻 View my portfolio and projects [here](https://alexnjagi.com)
+- 👯 I’m looking forward to **collaborate** on any project.
+- 👨‍💻 View my portfolio [here](https://alexnjagi.com)
 - 📫 Reach me via email **mutheeal.am@gmail.com**
 
 ## Languages, Databases, & Technologies
