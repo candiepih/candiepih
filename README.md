@@ -46,7 +46,7 @@
 
 [![Candiepih's github activity graph](https://activity-graph.herokuapp.com/graph?username=candiepih&theme=redical)](https://github.com/candiepih/github-readme-activity-graph)
 
-| <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=candiepih&show_icons=true&theme=outrun&hide_border=true" alt="candiepih" /></p> |  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=candiepih&layout=compact&hide_border=true&theme=outrun&langs_count=8" alt="candiepih" /></p> |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=candiepih&count_private=true&show_icons=true&theme=shades-of-purple) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=candiepih&langs_count=8&count_private=true&theme=shades-of-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 |---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------|
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=candiepih&theme=outrun" alt="candiepih" /></p>
 
