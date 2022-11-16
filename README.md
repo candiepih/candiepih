@@ -1,4 +1,4 @@
-<div align="center"><img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" height="350px"></div>
+<div align="center"><img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" height="350px"></div>
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"/> it's I, Alex Njagi</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candiepih&label=Profile%20views&color=0e75b6&style=flat" alt="candiepih" /> </p>
