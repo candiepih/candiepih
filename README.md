@@ -48,9 +48,7 @@
 
 | ![Candiepih's GitHub stats](https://github-readme-stats.vercel.app/api?username=candiepih&count_private=true&show_icons=true&theme=outrun) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=candiepih&langs_count=8&count_private=true&theme=outrun&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 |---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------|
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=candiepih&theme=outrun" alt="candiepih" /></p>
-
-
+| <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=candiepih&theme=outrun" alt="candiepih" /></p> | <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif" /> |
 
 ## Connect with me
 
