@@ -1,15 +1,22 @@
 <div align="center"><img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" height="350px"></div>
-<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"/> it's I, Alex Njagi</h1>
-
+<h1 align="center">Behold, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"/> it's I, Alex Njagi</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candiepih&label=Profile%20views&color=0e75b6&style=flat" alt="candiepih" /> </p>
 
 ## About Me
 
-- 😎 Passionate full stack developer, with interest in learning and building web applications, mostly back-end.
-- 🌱 I’m currently exploring docker and micro services architecture.
-- 👯 I’m looking forward to **collaborate** on any project.
-- 👨‍💻 View my portfolio [here](https://alexnjagi.com)
-- 📫 Reach me via email **mutheeal.am@gmail.com**
+Wielder of the Keyboard, Commander of Code, Slayer of bugs and forger of digital systems extend my dominion across the vast landscapes of Full Stack Development.
+
+I am the formidable slayer of bugs, architect of seamless systems, and master of both front and back-end realms.
+In the ever-expanding kingdom of code, I wield my skills to forge digital landscapes that defy limitations.
+From the throne of my coding kingdom, I decree the laws of efficiency and elegance.
+
+Bow before me, denizens of the digital frontier, for I am Alex Njagi, the Ruler of Ones and Zeros, the Luminary of Logic, and the Undisputed Sovereign of Full-Stack Mastery.
+</p>
+
+- 🌱 I’m currently exploring the realms of Kubernetes and CI/CD tools.
+- 👯 Eager to collaborate on any project within my domain.
+- 👨‍💻 Behold the conquests: [here](https://alexnjagi.com)
+- 📫 Inscribe inquiries on stone tablet to: **mutheeal.am@gmail.com**
 
 ## Languages, Databases, & Technologies
 
