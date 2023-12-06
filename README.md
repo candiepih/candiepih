@@ -4,18 +4,17 @@
 
 ## About Me
 
-Wielder of the Keyboard, Commander of Code, Slayer of bugs and forger of digital systems extend my dominion across the vast landscapes of Full Stack Development.
+I, wielder of the Keyboard, Commander of Code, Slayer of bugs and forger of digital systems, extend my dominion across the vast landscapes of Full Stack Development.
 
 I am the formidable slayer of bugs, architect of seamless systems, and master of both front and back-end realms.
-In the ever-expanding kingdom of code, I wield my skills to forge digital landscapes that defy limitations.
+In the ever-expanding kingdom of code, I wield skills to forge digital landscapes that defy limitations.
 From the throne of my coding kingdom, I decree the laws of efficiency and elegance.
 
-Bow before me, denizens of the digital frontier, for I am Alex Njagi, the Ruler of Ones and Zeros, the Luminary of Logic, and the Undisputed Sovereign of Full-Stack Mastery.
-</p>
+Bow before me, denizens of the digital frontier, for it is I Alex Njagi, the Ruler of Ones and Zeros, the Luminary of Logic, and the Undisputed Sovereign of Full-Stack Mastery.
 
 - 🌱 I’m currently exploring the realms of Kubernetes and CI/CD tools.
-- 👯 Eager to collaborate on any project within my domain.
-- 👨‍💻 Behold the conquests: [here](https://alexnjagi.com)
+- 👯 Eager to lend a hand on any project within my domain.
+- 👨‍💻 Mwahahaha muahahaha, behold, witness my conquests: [here](https://alexnjagi.com)
 - 📫 Inscribe inquiries on stone tablet to: **mutheeal.am@gmail.com**
 
 ## Languages, Databases, & Technologies
