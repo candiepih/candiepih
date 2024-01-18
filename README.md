@@ -4,10 +4,9 @@
 
 ## About Me
 
-I, wielder of the Keyboard, Commander of Code, forger of digital systems and Slayer of bugs, extend my dominion across the vast landscapes of Web Development.
+Greetings! I, wielder of the Keyboard, Commander of Code, forger of digital systems and Slayer of bugs, extend my dominion across the vast landscapes of Web Development.
 
-I am the architect of seamless systems and master of both front and back-end realms.
-In the ever-expanding kingdom of code, I wield skills to forge digital landscapes that defy business limitations.
+I am the architect of seamless systems and master of both front and back-end realms. I wield skills to forge digital systems that defy business limitations.
 From the throne of my coding kingdom, I decree the laws of efficiency and elegance.
 
 Bow before me, denizens of the digital frontier, for it is I Alex Njagi, the Ruler of Ones and Zeros, the Luminary of Logic, and the Undisputed Sovereign of Full-Stack Mastery.
