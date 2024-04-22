@@ -14,7 +14,7 @@ Bow before me, denizens of the digital frontier, for it is I Alex Njagi, the Rul
 - 🌱 I’m currently exploring the realms of Kubernetes and CI/CD tools.
 - 👯 Eager to lend a hand on any project within my domain.
 - 👨‍💻 Mwahahaha muahahaha, behold, witness my conquests: [here](https://alexnjagi.com)
-- 📫 Inscribe inquiries on stone tablet to: **mutheeal.am@gmail.com**
+- 📫 Inscribe any inquiries to: **hello@alexnjagi.com**
 
 ## Languages, Databases, & Technologies
 
