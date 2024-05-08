@@ -4,7 +4,7 @@
 
 ## About Me
 
-Greetings!... I, wielder of the Keyboard, Commander of Code, forger of digital systems and Slayer of bugs, extend my dominion across the vast landscapes of Web Development.
+Greetings!... I, wielder of the Keyboard, Commander of Code, forger of digital systems, and Slayer of bugs, extend my dominion across the vast landscapes of Web Development.
 
 I am the architect of seamless systems and master of both front and back-end realms. I wield skills to forge digital systems that defy business limitations.
 From the throne of my coding kingdom, I decree the laws of efficiency and elegance.
@@ -14,7 +14,7 @@ Bow before me, denizens of the digital frontier, for it is I Alex Njagi, the Rul
 - 🌱 I’m currently exploring the realms of Kubernetes and CI/CD tools.
 - 👯 Eager to lend a hand on any project within my domain.
 - 👨‍💻 Mwahahaha muahahaha, behold, witness my conquests: [here](https://alexnjagi.com)
-- 📫 Inscribe any inquiries to: **hello@alexnjagi.com**
+- 📫 Inscribe any inquiries to: **contact@alexnjagi.com**
 
 ## Languages, Databases, & Technologies
 
