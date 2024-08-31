@@ -45,9 +45,6 @@ From the throne of my coding kingdom, I decree the laws of efficiency and elegan
 ![](https://img.shields.io/badge/DevOps-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Design-PhotoShop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=2bbc8a)
-
-
-
 ![](https://img.shields.io/badge/GameEngine-Unity-informational?style=flat&logo=unity&logoColor=white&color=2bbc8a)
 
 ## Github stats
