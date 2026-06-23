@@ -12,10 +12,7 @@
 <h1 align="center">Behold, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"/> it's I, Alex Njagi</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candiepih&label=Profile%20views&color=0e75b6&style=flat" alt="candiepih" /> </p>
 
-Greetings!... I, wielder of the Keyboard, Commander of Code, forger of digital systems, and Slayer of bugs, extend my dominion across the vast landscapes of Web Development.
-
-I am the architect of both front-end and back-end systems in the web development realm. I wield skills to forge digital systems that defy business limitations.
-From the throne of my coding kingdom, I decree the laws of efficiency and elegance.
+Greetings!... I, the architect of both front-end and back-end systems in the web development realm, wield skills to forge digital systems that defy business limitations.
 
 ## 💫 About Me:
 
@@ -25,7 +22,6 @@ From the throne of my coding kingdom, I decree the laws of efficiency and elegan
 - 💬 Ask me about anything tech-related.
 - 👨‍💻 Mwahahaha muahahaha, behold, witness my conquests: [here](https://alexnjagi.com)
 - 📫 Inscribe any inquiries to: **contact@alexnjagi.com**
-- ⚡ Fun fact. I love dabbling in digital art during my free time.
 
 ## 💻 Tech Stack:
 
